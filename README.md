@@ -1,16 +1,16 @@
 # Day 1
--Variable
--String
--operator
+- Variable
+- String
+- operator
 # Day 2
--functions
+- functions
 # Day 3
--Loops
+- Loops
 # Day 4
--strings
+- strings
 # Day 5
--lists
+- lists
 # Day 6
--tuples
+- tuples
 # Day 7
 - Lambda Function
