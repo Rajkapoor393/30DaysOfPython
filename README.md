@@ -12,3 +12,5 @@
 -lists
 # Day 6
 -tuples
+# Day 7
+- Lambda Function
