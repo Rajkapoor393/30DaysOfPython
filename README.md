@@ -14,5 +14,6 @@
 - tuples
 # Day 7
 - Lambda Function
-# Day 8
 - Set
+# Day 8
+- Dictionary
