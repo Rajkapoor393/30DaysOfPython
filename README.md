@@ -10,3 +10,9 @@
 | 07  | Lambda Function |
 | 08  | Dictionary |
 | 09  | OOP concepts |
+| 10  | Scrap        |
+| 11  | pandas |
+| 12  | numpy |
+| 13  | Modules and Package |
+| 14  | Decorator |
+| 15  | Extra |
